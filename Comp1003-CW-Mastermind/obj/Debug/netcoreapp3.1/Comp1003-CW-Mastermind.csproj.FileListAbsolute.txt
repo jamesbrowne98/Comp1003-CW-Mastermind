@@ -1,0 +1,13 @@
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\bin\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.exe
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\bin\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.deps.json
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\bin\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.runtimeconfig.json
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\bin\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.runtimeconfig.dev.json
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\bin\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.dll
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\bin\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.pdb
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\obj\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.csprojAssemblyReference.cache
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\obj\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\obj\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.AssemblyInfo.cs
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\obj\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\obj\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.dll
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\obj\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.pdb
+C:\Users\James\source\repos\Comp1003-CW-Mastermind\Comp1003-CW-Mastermind\obj\Debug\netcoreapp3.1\Comp1003-CW-Mastermind.genruntimeconfig.cache

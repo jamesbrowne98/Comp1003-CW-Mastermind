@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Comp1003-CW-Mastermind/1.0.0": {
+        "runtime": {
+          "Comp1003-CW-Mastermind.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comp1003-CW-Mastermind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
